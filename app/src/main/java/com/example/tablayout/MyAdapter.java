@@ -37,7 +37,7 @@ public class MyAdapter extends FragmentPagerAdapter {
                 return badmintonFragment;
 
             default:
-                return  null;
+                return null;
         }
     }
 
